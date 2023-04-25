@@ -2,7 +2,7 @@
 #### Assigment assigned by "Mobilicis India Private Limited" 
 
 ## Demo
-#### https://tri2do.vercel.app/
+#### https://assign-backend.onrender.com/api
 
 ## Installation Guide
 ### clone the project
